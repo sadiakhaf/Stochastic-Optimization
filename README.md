@@ -1,6 +1,6 @@
 # Stochastic-Optimization
 MATLAB program to find the optimal policy
-The questions can be found here: http://Calendar.google.com
+The questions can be found here: https://adityam.github.io/stochastic-control/assignments/01/
 
 Suppose X={1,2}, U={1,2,3}, and W={1,2,3}
 . Let (X,W) be random variables taking values in 
